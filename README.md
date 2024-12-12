@@ -1,5 +1,5 @@
 # EconomySimulator
-# Technical Description
+* Technical Description *
 This system simulates a planned economy, modeling the flow of resources in detail and integrating multiple production stages. It utilizes data on industries, products, inputs, labor, and population demands to create complex and realistic economic scenarios. The goal is to provide a platform capable of reproducing the functioning of production and consumption in different sectors, making it ideal for strategy games or industrial production analysis in studies and estimations.
 
 The system is powered by tables representing the stages of the production process, such as Extraction, Refining, and Processing. These tables contain information about products, industries, inputs, demands (both direct and popular), and the resources required for each stage. Based on this data, the code simulates interactions between industries, stock management, and demand fulfillment, enabling the exploration of challenges and bottlenecks in a detailed economic model.
